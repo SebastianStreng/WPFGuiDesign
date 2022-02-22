@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\strengs\\source\\repos\\WpfTestApp\\WpfTestApp\\WpfTestApp.csproj": {}
+    "C:\\Users\\sebas\\source\\repos\\WPFGuiDesign\\WpfTestApp\\WpfTestApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\strengs\\source\\repos\\WpfTestApp\\WpfTestApp\\WpfTestApp.csproj": {
+    "C:\\Users\\sebas\\source\\repos\\WPFGuiDesign\\WpfTestApp\\WpfTestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\strengs\\source\\repos\\WpfTestApp\\WpfTestApp\\WpfTestApp.csproj",
+        "projectUniqueName": "C:\\Users\\sebas\\source\\repos\\WPFGuiDesign\\WpfTestApp\\WpfTestApp.csproj",
         "projectName": "WpfTestApp",
-        "projectPath": "C:\\Users\\strengs\\source\\repos\\WpfTestApp\\WpfTestApp\\WpfTestApp.csproj",
-        "packagesPath": "C:\\Users\\strengs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\strengs\\source\\repos\\WpfTestApp\\WpfTestApp\\obj\\",
+        "projectPath": "C:\\Users\\sebas\\source\\repos\\WPFGuiDesign\\WpfTestApp\\WpfTestApp.csproj",
+        "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sebas\\source\\repos\\WPFGuiDesign\\WpfTestApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\strengs\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
