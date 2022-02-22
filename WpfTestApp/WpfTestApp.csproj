@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="NamingToolExample.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="NamingToolExample.PNG" />
+  </ItemGroup>
+
+</Project>
